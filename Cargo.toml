@@ -1,0 +1,10 @@
+[package]
+name = "inventario-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.24.0"     # Framework egui con soporte para diferentes plataformas
+egui = "0.24.0"       # Biblioteca principal para UI
+egui_extras = "0.24.0" # Componentes adicionales como tablas
+rfd = "0.12.0"        # Diálogos de archivos nativos
