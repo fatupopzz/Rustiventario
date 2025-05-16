@@ -1,19 +1,19 @@
-# 🏪 Rustiventario
+# Rustiventario
 
 Un sistema de gestión de inventario desarrollado en Rust que combina eficiencia, seguridad y una interfaz gráfica moderna. Este proyecto demuestra la potencia del lenguaje Rust para crear aplicaciones de gestión robustas.
 
 
 
-## 🌟 Características
+## Características
 
-- ✅ Gestión completa de productos con nombre, precio, stock y etiquetas
-- 🔍 Búsqueda y filtrado por múltiples criterios
-- ⚠️ Alertas automáticas de bajo stock
-- 💻 Interfaz gráfica moderna con [egui](https://github.com/emilk/egui)
-- 💾 Persistencia de datos en formato CSV
-- ⚡ Operaciones de alta eficiencia gracias a estructuras de datos optimizadas
+- Gestión completa de productos con nombre, precio, stock y etiquetas
+- Búsqueda y filtrado por múltiples criterios
+- Alertas automáticas de bajo stock
+- Interfaz gráfica moderna con [egui](https://github.com/emilk/egui)
+- Persistencia de datos en formato CSV
+- Operaciones de alta eficiencia gracias a estructuras de datos optimizadas
 
-## 🧠 Fundamentos Técnicos
+## Fundamentos Técnicos
 
 El sistema utiliza una combinación inteligente de estructuras de datos para lograr un rendimiento óptimo:
 
@@ -26,16 +26,16 @@ Esta arquitectura permite operaciones eficientes como:
 - Obtención de productos más caros/baratos en O(log n)
 - Verificación instantánea de productos con bajo stock
 
-## 🚀 Ventajas de Rust
+## Ventajas de Rust
 
 Este proyecto aprovecha varias ventajas únicas de Rust:
 
-- 🔒 Seguridad de memoria garantizada sin recolector de basura
-- 🧪 Sistema de tipos estricto que previene errores en compilación
-- 🔄 Gestión de concurrencia segura sin condiciones de carrera
-- 🛠️ Rendimiento cercano a lenguajes de bajo nivel como C/C++
+- Seguridad de memoria garantizada sin recolector de basura
+- Sistema de tipos estricto que previene errores en compilación
+- Gestión de concurrencia segura sin condiciones de carrera
+- Rendimiento cercano a lenguajes de bajo nivel como C/C++
 
-## 📋 Requisitos
+## Requisitos
 
 - Rust 1.70.0 o superior
 - Dependencias:
@@ -44,7 +44,7 @@ Este proyecto aprovecha varias ventajas únicas de Rust:
   - egui_extras 0.24.0
   - rfd 0.12.0
 
-## 🚀 Instalación y Uso
+## Instalación y Uso
 
 1. **Clonar el repositorio:**
    ```bash
